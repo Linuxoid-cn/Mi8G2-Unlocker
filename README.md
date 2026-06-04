@@ -15,10 +15,10 @@
     * **Xiaomi 13 Pro**
     * **Xiaomi 13 Ultra**
 * **Redmi 系列：**
-    * **Redmi K60 Pro 不要用**
-    * **Redmi K70 不要用**
+    * **Redmi K60 Pro**
+    * **Redmi K70**
 * **平板系列：**
-    * **Xiaomi Pad 6s Pro 不要用**
+    * **Xiaomi Pad 6s Pro**
 
 ---
 ## ⚠️ 系统要求与兼容性逻辑 (System Requirements)
